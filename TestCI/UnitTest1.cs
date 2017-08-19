@@ -7,6 +7,7 @@ namespace TestCI
     [TestFixture]
     public class UnitTest1
     {
+        //
         IWebDriver _browser;
 
         const string TUTBY = "https://tut.by";
